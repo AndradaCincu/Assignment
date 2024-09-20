@@ -38,4 +38,6 @@ This project is about combining several datasets to create one complete and accu
 
 This project provides a clear way to merge datasets while keeping data quality high. By following a structured approach, the final dataset aims to be complete and accurate, using the best information from the original datasets.
 
+## Error
+I think some of the phone numbers are not taken correctly
 ![Example](Capture.PNG)
